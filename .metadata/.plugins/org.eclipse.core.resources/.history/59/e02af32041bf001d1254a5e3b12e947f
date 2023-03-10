@@ -1,0 +1,23 @@
+package com.educandoweb.course;
+
+
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+import org.springframework.boot.autoconfigure.security.SecurityProperties.User;
+
+import com.educandoweb.course.repositories.UserRepository;
+
+@SpringBootApplication
+public class CourseApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(CourseApplication.class, args);
+	}
+	UserRepository userRepository ;
+	User u5 = new User();
+	userRepository.saveAll(Arrays.asList(u5));
+
+	
+
+}
