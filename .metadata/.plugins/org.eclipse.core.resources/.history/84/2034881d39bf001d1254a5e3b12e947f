@@ -1,0 +1,14 @@
+package com.educandoweb.course.config;
+
+import org.springframework.context.annotation.Configuration;
+import org.springframework.context.annotation.Profile;
+
+import com.educandoweb.course.repositories.UserRepository;
+
+@Configuration
+@Profile("test")
+public class TestConfig {
+	
+	private UserRepository userRepository;
+
+}
