@@ -1711,3 +1711,15 @@ Caused by: org.codehaus.plexus.util.xml.pull.XmlPullParserException: start tag u
 2023-03-20 10:14:10,587 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ISRAEL\Desktop\CURSO JAVA - Udemy - parte5 -\course\src\test\resources
 2023-03-20 10:14:22,172 [Worker-51: Launching course - CourseApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources
 2023-03-20 10:14:22,201 [Worker-51: Launching course - CourseApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-20 10:14:22,207 [Worker-51: Launching course - CourseApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ISRAEL\Desktop\CURSO JAVA - Udemy - parte5 -\course\src\test\resources
+2023-03-21 08:27:36,325 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2023-03-21 08:27:50,126 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Updating Gradle version information cache failed. Using outdated cache.
+2023-03-24 07:46:51,196 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2023-03-24 07:59:53,992 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources
+2023-03-24 07:59:54,069 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-24 07:59:54,077 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ISRAEL\Desktop\CURSO JAVA - Udemy - parte5 -\course\src\test\resources
+2023-03-24 08:04:22,910 [Worker-14: Launching course - CourseApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources
+2023-03-24 08:04:22,953 [Worker-14: Launching course - CourseApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-24 08:04:22,996 [Worker-14: Launching course - CourseApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ISRAEL\Desktop\CURSO JAVA - Udemy - parte5 -\course\src\test\resources
+2023-03-24 08:05:56,925 [Worker-14: Launching course - CourseApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources
+2023-03-24 08:05:56,976 [Worker-14: Launching course - CourseApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
