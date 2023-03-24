@@ -1723,3 +1723,51 @@ Caused by: org.codehaus.plexus.util.xml.pull.XmlPullParserException: start tag u
 2023-03-24 08:04:22,996 [Worker-14: Launching course - CourseApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ISRAEL\Desktop\CURSO JAVA - Udemy - parte5 -\course\src\test\resources
 2023-03-24 08:05:56,925 [Worker-14: Launching course - CourseApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources
 2023-03-24 08:05:56,976 [Worker-14: Launching course - CourseApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-24 08:05:56,988 [Worker-14: Launching course - CourseApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ISRAEL\Desktop\CURSO JAVA - Udemy - parte5 -\course\src\test\resources
+2023-03-24 08:21:26,392 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources
+2023-03-24 08:21:26,533 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-24 08:21:26,539 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ISRAEL\Desktop\CURSO JAVA - Udemy - parte5 -\course\src\test\resources
+2023-03-24 08:22:59,302 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources
+2023-03-24 08:22:59,429 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-24 08:22:59,435 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ISRAEL\Desktop\CURSO JAVA - Udemy - parte5 -\course\src\test\resources
+2023-03-24 08:25:02,816 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources
+2023-03-24 08:25:02,859 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-24 08:25:02,867 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ISRAEL\Desktop\CURSO JAVA - Udemy - parte5 -\course\src\test\resources
+2023-03-24 08:25:21,427 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources
+2023-03-24 08:25:21,472 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-24 08:25:21,478 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ISRAEL\Desktop\CURSO JAVA - Udemy - parte5 -\course\src\test\resources
+2023-03-24 08:27:12,425 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources
+2023-03-24 08:27:12,447 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-24 08:27:12,458 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ISRAEL\Desktop\CURSO JAVA - Udemy - parte5 -\course\src\test\resources
+2023-03-24 08:27:14,775 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources
+2023-03-24 08:27:14,828 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-24 08:27:14,834 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ISRAEL\Desktop\CURSO JAVA - Udemy - parte5 -\course\src\test\resources
+2023-03-24 08:29:46,236 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources
+2023-03-24 08:29:46,270 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-24 08:29:46,278 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ISRAEL\Desktop\CURSO JAVA - Udemy - parte5 -\course\src\test\resources
+2023-03-24 08:30:28,053 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources
+2023-03-24 08:30:28,073 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-24 08:30:28,078 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ISRAEL\Desktop\CURSO JAVA - Udemy - parte5 -\course\src\test\resources
+2023-03-24 08:31:01,073 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources
+2023-03-24 08:31:01,091 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-24 08:31:01,098 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ISRAEL\Desktop\CURSO JAVA - Udemy - parte5 -\course\src\test\resources
+2023-03-24 08:31:07,901 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources
+2023-03-24 08:31:07,923 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-24 08:31:07,930 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ISRAEL\Desktop\CURSO JAVA - Udemy - parte5 -\course\src\test\resources
+2023-03-24 08:33:54,368 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources
+2023-03-24 08:33:54,386 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-24 08:33:54,392 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ISRAEL\Desktop\CURSO JAVA - Udemy - parte5 -\course\src\test\resources
+2023-03-24 08:34:01,773 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources
+2023-03-24 08:34:01,789 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-24 08:34:01,794 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ISRAEL\Desktop\CURSO JAVA - Udemy - parte5 -\course\src\test\resources
+2023-03-24 08:34:15,475 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources
+2023-03-24 08:34:15,492 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-24 08:34:15,499 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ISRAEL\Desktop\CURSO JAVA - Udemy - parte5 -\course\src\test\resources
+2023-03-24 08:34:47,641 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources
+2023-03-24 08:34:47,661 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-24 08:34:47,667 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ISRAEL\Desktop\CURSO JAVA - Udemy - parte5 -\course\src\test\resources
+2023-03-24 09:43:43,554 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources
+2023-03-24 09:43:43,707 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-24 09:43:43,713 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ISRAEL\Desktop\CURSO JAVA - Udemy - parte5 -\course\src\test\resources
+2023-03-24 10:01:35,089 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources
+2023-03-24 10:01:35,240 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource

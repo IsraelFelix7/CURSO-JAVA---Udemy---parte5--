@@ -24,5 +24,14 @@ public class UserService {
 		Optional<com.educandoweb.course.entities.User> obj = repository.findById(id);
 		return obj.get();
 		}
+	
+	public User insert(User obj) {
+		return repository.save(obj);
+	}
+
+	public com.educandoweb.course.entities.User insert(com.educandoweb.course.entities.User obj) {
+		// TODO Auto-generated method stub
+		return repository.save(obj);
+	}
 
 }
