@@ -33,5 +33,9 @@ public class UserService {
 		// TODO Auto-generated method stub
 		return repository.save(obj);
 	}
+	
+	public void delete(Long id) {
+		repository.deleteById(id);
+	}
 
 }
