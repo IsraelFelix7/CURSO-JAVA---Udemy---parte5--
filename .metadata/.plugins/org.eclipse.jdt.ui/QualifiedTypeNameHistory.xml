@@ -19,8 +19,6 @@
     <fullyQualifiedTypeName name="org.springframework.stereotype.Repository"/>
     <fullyQualifiedTypeName name="java.util.Optional"/>
     <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.GetMapping"/>
-    <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.PathVariable"/>
-    <fullyQualifiedTypeName name="org.springframework.http.ResponseEntity"/>
     <fullyQualifiedTypeName name="java.util.List"/>
     <fullyQualifiedTypeName name="com.educandoweb.course.repositories.OrderRepository"/>
     <fullyQualifiedTypeName name="com.fasterxml.jackson.annotation.JsonFormat"/>
@@ -46,10 +44,16 @@
     <fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Autowired"/>
     <fullyQualifiedTypeName name="com.educandoweb.course.repositories.OrderItemRepository"/>
     <fullyQualifiedTypeName name="com.educandoweb.course.entities.OrderItem"/>
-    <fullyQualifiedTypeName name="com.fasterxml.jackson.annotation.JsonIgnore"/>
     <fullyQualifiedTypeName name="java.io.Serializable"/>
     <fullyQualifiedTypeName name="jakarta.persistence.MapsId"/>
     <fullyQualifiedTypeName name="jakarta.persistence.OneToOne"/>
     <fullyQualifiedTypeName name="jakarta.persistence.CascadeType"/>
     <fullyQualifiedTypeName name="com.educandoweb.course.entities.Payment"/>
+    <fullyQualifiedTypeName name="com.fasterxml.jackson.annotation.JsonIgnore"/>
+    <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.PostMapping"/>
+    <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.RequestBody"/>
+    <fullyQualifiedTypeName name="org.springframework.web.servlet.support.ServletUriComponentsBuilder"/>
+    <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.DeleteMapping"/>
+    <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.PathVariable"/>
+    <fullyQualifiedTypeName name="org.springframework.http.ResponseEntity"/>
 </qualifiedTypeNameHistroy>
